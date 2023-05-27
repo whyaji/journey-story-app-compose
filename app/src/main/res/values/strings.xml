@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Journey</string>
+    <string name="walkthroughTitle1">Start Your Journey</string>
+    <string name="walktroughTitle2">Memories Made Easy</string>
+    <string name="walktroughTitle3">Reflect and Grow</string>
+    <string name="walkthroughText1">Begin your digital journaling adventure with Journey Note - a powerful app to capture and cherish life\'s moments.</string>
+    <string name="walktroughText2">Effortlessly document your experiences, emotions, and thoughts with Journey Note, making memories last forever.</string>
+    <string name="walktroughText3">Rediscover yourself through self-reflection with Journey Note, gaining insights and tracking personal growth.</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="menu_home">home</string>
+</resources>
